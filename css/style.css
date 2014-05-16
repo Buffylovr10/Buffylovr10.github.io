@@ -365,7 +365,7 @@ p {
 }
 .quote-1 {
   border: medium none;
-  color: #7f7f7f;
+  color: white;
   display: block;
   margin: 0;
   padding: 0;
@@ -589,7 +589,7 @@ p {
 }
 .mail-1 {
   text-decoration: underline;
-  color: #e85356;
+  color: #509ad6;
 }
 .mail-1:hover {
   text-decoration: none;
